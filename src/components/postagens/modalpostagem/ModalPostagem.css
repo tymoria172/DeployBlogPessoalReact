@@ -1,0 +1,16 @@
+.cursor{
+    cursor: pointer;
+    background-color: #1c2226!important;
+}
+
+.btnModal{
+    border-color: white !important;
+    border-color: #F2D541;
+    background-color: aliceblue;
+   
+}
+
+.btnpost{
+
+    border-color: #F2D541;
+}
